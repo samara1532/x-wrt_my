@@ -34,7 +34,7 @@ config policy
 2ip.ru
 hdrezka.ag
 seasonvar.ru
-filmix.biz
+filmix.fm
 '
        option interface 'wg0'
        option name 'awg'
