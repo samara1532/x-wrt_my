@@ -38,6 +38,7 @@ filmix.fm
 rutracker.org 
 mmm.ua 
 nba.ru 
+ddt.tu 
 '
   option interface 'wg0'
   option name 'awg'
