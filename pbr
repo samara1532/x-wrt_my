@@ -42,22 +42,6 @@ sdxcentral.com
 searchfloor.org
 seasonvar.ru
 sebeanus.online
-secure-web.cisco.com
-seedoff.zannn.top
-selezen.org
-semnasem.org
-sentry.io
-sentry.servarr.com
-serpstat.com
-sfdcopens.com
-shikimori.me
-sobesednik.com
-sobesednik.ru
-software.cisco.com
-solarwinds.com
-soundcloud.com
-spacelift.io
-spektr.press
-spotify.com'
+secure-web.cisco.com'
 option interface 'wg0'
 option name 'awg'
