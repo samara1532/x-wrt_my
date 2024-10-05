@@ -28,28 +28,19 @@
 	list supported_interface 'wan'
 	list supported_interface 'PPPoE'
 
-config dns_policy
-	option name 'Redirect Local IP DNS'
-	option src_addr '192.168.1.5'
-	option dest_dns '1.1.1.1'
-	option enabled '0'
-
 config policy
 	option enabled '1'
 	option dest_addr '
 2ip.ru
-xxx.com
 scontent.xx.fbcdn.net
 sdxcentral.com
 searchfloor.org
 seasonvar.ru
 sebeanus.online
-secure-web.cisco.com
-ua.ua'
+secure-web.cisco.com'
 option interface 'wg0'
 option name 'awg'
 
 config include
 option enabled '1'
 option path '/usr/share/pbr/pbr.user.aws'
-
