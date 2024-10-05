@@ -31,11 +31,10 @@
 config policy
         option enabled '1'
         option dest_addr '
-2ip.ru 
-hdrezka.ag 
-seasonvar.ru 
-filmix.fm 
-'
+2ip.ru
+hdrezka.ag
+seasonvar.ru
+filmix.fm'
        option interface 'wg0'
        option name 'awg'
 
