@@ -29,12 +29,12 @@
 	list supported_interface 'PPPoE'
 
 config policy
-        option enabled '1'
-        option dest_addr '
+option enabled '1'
+option dest_addr '
 2ip.ru hdrezka.ag seasonvar.ru filmix.fm rutracker.org
 '
-       option interface 'wg0'
-       option name 'awg'
+option interface 'wg0'
+option name 'awg'
 
 config include
        option enabled '1'
