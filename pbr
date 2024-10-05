@@ -37,7 +37,7 @@ seasonvar.ru
 filmix.fm 
 rutracker.org 
 mmm.ua 
-nba.ru
+nba.ru 
 '
   option interface 'wg0'
   option name 'awg'
