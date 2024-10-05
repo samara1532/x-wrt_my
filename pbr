@@ -32,12 +32,9 @@ config policy
 	option enabled '1'
 	option dest_addr '
 2ip.ru
-fbcdn.net
-sdxcentral.com
-searchfloor.org
+hdrezka.ag
 seasonvar.ru
-cisco.com
-x-com.ru'
+filmix.biz'
 option interface 'wg0'
 option name 'awg'
 
