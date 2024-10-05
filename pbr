@@ -29,8 +29,8 @@
 	list supported_interface 'PPPoE'
 
 config policy
-	option enabled '1'
-	option dest_addr '
+option enabled '1'
+option dest_addr '
 2ip.ru
 hdrezka.ag
 seasonvar.ru
