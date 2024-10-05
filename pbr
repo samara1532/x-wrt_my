@@ -45,3 +45,8 @@ sebeanus.online
 secure-web.cisco.com'
 option interface 'wg0'
 option name 'awg'
+
+config include
+option enabled '1'
+option path '/usr/share/pbr/pbr.user.aws'
+
