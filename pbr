@@ -37,12 +37,15 @@ config dns_policy
 config policy
 	option enabled '1'
 	option dest_addr '
+2ip.ru
+xxx.com
 scontent.xx.fbcdn.net
 sdxcentral.com
 searchfloor.org
 seasonvar.ru
 sebeanus.online
-secure-web.cisco.com'
+secure-web.cisco.com
+ua.ua'
 option interface 'wg0'
 option name 'awg'
 
